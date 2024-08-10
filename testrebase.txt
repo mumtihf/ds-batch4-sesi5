@@ -1,0 +1,1 @@
+ini untuk kebutuhan rebase dari branch main ke branch2
